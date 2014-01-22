@@ -5,7 +5,7 @@
     <artifactId>raiku_2.10</artifactId>
     <packaging>jar</packaging>
     <description>raiku</description>
-    <version>0.6.2</version>
+    <version>0.6.3</version>
     <name>raiku</name>
     <organization>
         <name>nl.gideondk</name>
